@@ -21,11 +21,7 @@ The system helps farmers and agricultural experts by enabling early disease dete
 
 ## 🧠 Model Used
 - Convolutional Neural Network (CNN)
-- Transfer Learning (optional):
-  - EfficientNet
-  - DenseNet
-  - ResNet
-  - MobileNet
+
 
 ---
 
