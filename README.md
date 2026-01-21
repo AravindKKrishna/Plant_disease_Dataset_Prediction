@@ -88,12 +88,13 @@ plant-disease-prediction/
 1. Clone the repository
 2. Install dependencies using requirements.txt
 3. Run the Jupyter notebook
+4. Web application using Streamlit(install Streamlit)
+5. Run main.py
 
 
 ---
 
 ## 🔮 Future Enhancements
-- Web application using Streamlit
 - Mobile application support
 - Real-time image prediction
 - Multi-crop disease classification
